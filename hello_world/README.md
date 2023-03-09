@@ -1,4 +1,3 @@
 # Radio app
-
-A new Radio Flutter project.
+Radio Flutter project.
 
